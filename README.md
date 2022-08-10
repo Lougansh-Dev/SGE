@@ -1,0 +1,2 @@
+# SGE
+Sistema Gerenciador Escolar
